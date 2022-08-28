@@ -19,8 +19,8 @@ Come [join us](https://gdsc.community.dev/parul-university-vadodara/) :
 > 🚀 We are now a growing community of creative developers who are passionate about learning new technologies, building💡 meaningful projects and get access to google developer resources and opportunities for free.
 
 ## Open-Source 
-- 📘 Code of Conduct
-- 📙 Contribution Guidelines
+- 📘 [Code of Conduct](https://github.com/GDSCParulUniversity/.github/blob/main/CODE_OF_CONDUCT.md)
+- 📙 Contribution Guidelines (✌️ **coming soon** )
 <!-- - ⚙️ Current projects [for later] -->
 
 <hr>
