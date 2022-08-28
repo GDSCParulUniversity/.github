@@ -2,10 +2,10 @@
 
 ![GDSC_BANNER](images/GDSC.png)
 
-<p align="center">
-<a herf=""><img src="https://img.shields.io/discord/765517809672519700?label=Discord%20GDSC%20PU&logo=discord&logoColor=white&style=flat-square"></a>
-<a herf=""><img src="https://img.shields.io/badge/GDSC%20chapter-check%20out%20%26%20join%20us-orange?style=flat-square"></a>
-</p>
+<div align="center">
+<a target=”_blank” href="https://discord.gg/Ar8H3RhqQ4"><img alt="Discord Invite" src="https://img.shields.io/discord/765517809672519700?label=Discord%20GDSC%20PU&logo=discord&logoColor=white&style=flat-square"></a>
+<a target=”_blank” href="https://gdsc.community.dev/parul-university-vadodara/"><img alt="GDSC local chapter link" src="https://img.shields.io/badge/GDSC%20chapter-check%20out%20%26%20join%20us-orange?style=flat-square"></a>
+</div>
 
 ## 💡 About
 Google developer student club was started as an initiative by google to help students bridge gap between theory and practice through various technical events.
@@ -27,8 +27,8 @@ Come [join us](https://gdsc.community.dev/parul-university-vadodara/) :
 <hr>
 
 <p align="center">
-    <a href="https://www.instagram.com/gdsc_pu/"><u>Instagram</u></a>
-    | <a href="https://discord.gg/Ar8H3RhqQ4"><u>Discord</u></a>
-    | <a href="https://www.youtube.com/channel/UCyORBFDGPvUU0hPL2PRaxsg"> <u>YouTube</u></a>
-    | <a href="https://www.linkedin.com/company/dscpu/"><u>LinkedIn</u></a>
+    <a target=”_blank” href="https://www.instagram.com/gdsc_pu/"><u>Instagram</u></a>
+    | <a target=”_blank” href="https://discord.gg/Ar8H3RhqQ4"><u>Discord</u></a>
+    | <a target=”_blank” href="https://www.youtube.com/channel/UCyORBFDGPvUU0hPL2PRaxsg"> <u>YouTube</u></a>
+    | <a target=”_blank” href="https://www.linkedin.com/company/dscpu/"><u>LinkedIn</u></a>
 </p>
