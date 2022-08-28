@@ -8,12 +8,12 @@
 </p>
 
 ## 💡 About
-Google developer student club was started as an initiative by google to help students bridge gap 🪜between theory and practice through various technical events.
+Google developer student club was started as an initiative by google to help students bridge gap between theory and practice through various technical events.
 
-📈The club has had a great impact on students worldwide so what are you waiting for!
+The club has had a great impact on students worldwide so what are you waiting for!
 Come [join us](https://gdsc.community.dev/parul-university-vadodara/) :
-- Connect and collaborate🔗
-- Gain new skills through hand-on training, workshops, events, talks👥 and much more!
+- 💗 Connect and collaborate
+- 👥 Gain new skills through hand-on training, workshops, events, talks and much more!
 - 🧑‍💻 Apply new learning to build solutions for local problems
 
 > 🚀 We are now a growing community of creative developers who are passionate about learning new technologies, building💡 meaningful projects and get access to google developer resources and opportunities for free.
