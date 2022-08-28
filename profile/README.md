@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![GDSC_BANNER](images/GDSC.png)
+![GDSC_BANNER](https://raw.githubusercontent.com/GDSCParulUniversity/.github/main/profile/images/GDSC.png)
 
 <div align="center">
 <a target=”_blank” href="https://discord.gg/Ar8H3RhqQ4"><img alt="Discord Invite" src="https://img.shields.io/discord/765517809672519700?label=Discord%20GDSC%20PU&logo=discord&logoColor=white&style=flat-square"></a>
@@ -19,7 +19,7 @@ Come [join us](https://gdsc.community.dev/parul-university-vadodara/) :
 > 🚀 We are now a growing community of creative developers who are passionate about learning new technologies, building💡 meaningful projects and get access to google developer resources and opportunities for free.
 
 ## Open-Source 
-- 📘 [Code of Conduct](./../CODE_OF_CONDUCT.md)
+- 📘 [Code of Conduct](https://github.com/GDSCParulUniversity/.github/blob/main/CODE_OF_CONDUCT.md)
 - 📙 Contribution Guidelines (✌️ **coming soon** )
 - 🌍 [how to contribute to OpenSource](https://opensource.guide/)
 <!-- - ⚙️ Current projects [for later] -->
