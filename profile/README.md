@@ -26,8 +26,8 @@ Come [join us](https://gdsc.community.dev/parul-university-vadodara/) :
 <hr>
 
 <p align="center">
-    <a herf="https://www.instagram.com/gdsc_pu/"><u>Instagram</u></a>
-    | <a herf="https://discord.gg/Ar8H3RhqQ4"><u>Discord</u></a>
-    | <a herf="https://www.youtube.com/channel/UCyORBFDGPvUU0hPL2PRaxsg"> <u>YouTube</u></a>
-    | <a herf="https://www.linkedin.com/company/dscpu/"><u>LinkedIn</u></a>
+    <a href="https://www.instagram.com/gdsc_pu/"><u>Instagram</u></a>
+    | <a href="https://discord.gg/Ar8H3RhqQ4"><u>Discord</u></a>
+    | <a href="https://www.youtube.com/channel/UCyORBFDGPvUU0hPL2PRaxsg"> <u>YouTube</u></a>
+    | <a href="https://www.linkedin.com/company/dscpu/"><u>LinkedIn</u></a>
 </p>
