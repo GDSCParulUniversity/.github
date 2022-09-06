@@ -1,5 +1,5 @@
 # Hi there 👋
-We are overwhelmed to have you as a part of our community. Get started with contributing to this organization. You truly make the difference for us!  🎉
+We are overwhelmed to have you as a part of our community. Get started with contributing to this organization. You truly make a difference for us!  🎉
 
 ## Table of Contents
 - [Hi there 👋](#hi-there-)
@@ -11,7 +11,7 @@ We are overwhelmed to have you as a part of our community. Get started with cont
 <hr/>
 
 ## Quick intro with `git`
-Here is a quick intro for github users who are not familiar with git.
+Here is a quick intro for GitHub users who are not familiar with git.
 
 ### Cloning a repository
 for cloning repository `clone` option is used.
@@ -19,7 +19,7 @@ for cloning repository `clone` option is used.
 git clone <link>
 ```
 
-> replace `<link>` with the url of the repository
+> replace `<link>` with the URL of the repository
 
 ### Submitting changes
 
@@ -33,7 +33,7 @@ git push
 <details>
     <summary> Code Explanation </summary>
 
-Here is a quick explanation of above commands
+Here is a quick explanation of the above commands
 
 ```bash
 git pull -v
@@ -63,10 +63,8 @@ and option `-m` is used to add a message to the commit.
 git push
 ```
 
-`push` option will push the changes to the github server.
+`push` option will push the changes to the GitHub server.
 
 </details>
 
-> refer [GitHub HelloWorld docs](https://docs.github.com/en/get-started/quickstart/hello-world) for a quick intro with github web
-
-
+> refer [GitHub HelloWorld docs](https://docs.github.com/en/get-started/quickstart/hello-world) for a quick intro with GitHub web
