@@ -1,12 +1,11 @@
 # Hi there 👋
-Thanks for taking the time to contribute to this org! 🎉. this page helps you get started with contributing to this org. 🚀
+We are overwhelmed to have you as a part of our community. Get started with contributing to this organization. You truly make the difference for us!  🎉
 
 ## Table of Contents
 - [Hi there 👋](#hi-there-)
   - [Table of Contents](#table-of-contents)
   - [Quick intro with `git`](#quick-intro-with-git)
     - [Cloning a repository](#cloning-a-repository)
-    - [Initializing repository](#initializing-repository)
     - [Submitting changes](#submitting-changes)
 
 <hr/>
@@ -15,24 +14,14 @@ Thanks for taking the time to contribute to this org! 🎉. this page helps you 
 Here is a quick intro for github users who are not familiar with git.
 
 ### Cloning a repository
-To clone a repository, you need to copy the url of the repository and then run the following command:
+for cloning repository `clone` option is used.
 ```bash
 git clone <link>
 ```
 
 > replace `<link>` with the url of the repository
 
-### Initializing repository
-to initialize a folder or a workspace as a git repository, you can use the following command:
-```bash
-git init
-```
-
-> Make sure you are in the right folder before running this command.
-> Only used when creating **new** repository
-
 ### Submitting changes
-after making changes to file you can use this set this commands to push chages to GitHub server.
 
 ```bash
 git pull -v
