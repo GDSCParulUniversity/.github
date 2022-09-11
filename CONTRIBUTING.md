@@ -38,32 +38,27 @@ Here is a quick explanation of the above commands
 ```bash
 git pull -v
 ```
+the pull option is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
 
-this option will `pull` the latest changes from the server and merge them with your local changes.
-
-and option `-v` is optional and it will show you the changes that are being pulled.
 
 ```bash
 git add -A
 ```
+add option is used to add files to the staging area. `-A` option is used to add all the files in the current directory.
 
-`add` option will add all the changes to the staging area and option `-A` is set to add all the changes.
+> Stagging area is a place where all the files are stored before they are committed. ( like a launch station for rocket 🚀)
 
 ```bash
 git commit -v -m "Changes to repo"
 ```
-
-`commit` option will commit the changes to the local repository and option `-v` is optional and it will show you the changes that are being committed.
-
-and option `-m` is used to add a message to the commit.
+commit option is used to commit the changes to the local repository. `-v` option is used to show the diff of the changes. `-m` option is used to add a message to the commit.
 
 > messages are important to a commit cause it explains what changes are being made.
 
 ```bash
 git push
 ```
-
-`push` option will push the changes to the GitHub server.
+push option is used to push the changes to the remote repository. which updates the remote repository with the changes made in the local repository.
 
 </details>
 
