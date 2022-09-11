@@ -1,5 +1,5 @@
 # Hi there 👋
-We are overwhelmed to have you as a part of our community. Get started with contributing to this organization. You truly make a difference for us!  🎉
+We are overwhelmed to have you as a part of our community💫. Get started with contributing to this organization 🎉. You truly make the difference for us!🚀
 
 ## Table of Contents
 - [Hi there 👋](#hi-there-)
@@ -11,7 +11,7 @@ We are overwhelmed to have you as a part of our community. Get started with cont
 <hr/>
 
 ## Quick intro with `git`
-Here is a quick intro for GitHub users who are not familiar with git.
+Here is a quick intro for GitHub
 
 ### Cloning a repository
 for cloning repository `clone` option is used.
