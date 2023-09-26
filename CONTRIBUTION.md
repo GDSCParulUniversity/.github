@@ -2,6 +2,8 @@
 
 Thank you for considering contributing to **GDSC PU!** We appreciate your time and effort in helping us improve our projects. Please take a moment to read these guidelines to make the contribution process smooth and effective.
 
+![Google Animation](https://media.giphy.com/media/5NPhdqmyRxn8I/giphy.gif)
+
 ## Table of Contents
 
 1. [Code of Conduct](#code-of-conduct)
