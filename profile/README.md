@@ -20,7 +20,7 @@ Come [join us](https://gdsc.community.dev/parul-university-vadodara/) :
 
 ## Open-Source 
 - 📘 [Code of Conduct](https://github.com/GDSCParulUniversity/.github/blob/main/CODE_OF_CONDUCT.md)
-- 📙 Contribution Guidelines (✌️ **coming soon** )
+- 📙 [Contribution Guidelines](https://github.com/GDSCParulUniversity/.github/blob/main/CONTRIBUTING.md)
 - 🌍 [how to contribute to OpenSource](https://opensource.guide/)
 <!-- - ⚙️ Current projects [for later] -->
 
