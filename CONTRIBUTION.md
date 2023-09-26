@@ -3,7 +3,6 @@
 Thank you for considering contributing to **GDSC PU!** We appreciate your time and effort in helping us improve our projects. Please take a moment to read these guidelines to make the contribution process smooth and effective.
 
 ![Google Animation](https://media.giphy.com/media/5NPhdqmyRxn8I/giphy.gif)
-
 ## Table of Contents
 
 1. [Code of Conduct](#code-of-conduct)
@@ -69,10 +68,10 @@ If you encounter a problem or have a suggestion, please open an issue on our iss
 
 ## Community and Communication
 
-- Join our [Discord community] (https://discord.gg/Ar8H3RhqQ4) forum for discussions and questions.
+- Join our [Discord community](https://discord.gg/Ar8H3RhqQ4) forum for discussions and questions.
 - Follow us on [Twitter](https://twitter.com/gdsc_pu) and [Instagram](https://www.instagram.com/gdsc_pu/) for project updates.
 - Participate in discussions on our GitHub repository and help answer questions from other contributors.
 
 ## Acknowledgments
 
-Thank you for your interest in contributing to **GDSC PU**. Your support and contributions are vital to our success, and we look forward to collaborating with you!
+Thank you for your interest in contributing to **GDSC PU**. Your support and contributions are vital to our success, and we look forward to collaborating with you! 
