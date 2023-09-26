@@ -1,65 +1,79 @@
-# Hi there 👋
-We are overwhelmed to have you as a part of our community💫. Get started with contributing to this organization 🎉. You truly make the difference for us!🚀
+# Contributing to GDSC PU
 
+Thank you for considering contributing to **GDSC PU!** We appreciate your time and effort in helping us improve our projects. Please take a moment to read these guidelines to make the contribution process smooth and effective.
+
+![Google Animation](https://media.giphy.com/media/5NPhdqmyRxn8I/giphy.gif)
 ## Table of Contents
-- [Hi there 👋](#hi-there-)
+
+- [Contributing to GDSC PU](#contributing-to-gdsc-pu)
   - [Table of Contents](#table-of-contents)
-  - [Quick intro with `git`](#quick-intro-with-git)
-    - [Cloning a repository](#cloning-a-repository)
-    - [Submitting changes](#submitting-changes)
+  - [Code of Conduct](#code-of-conduct)
+  - [How Can I Contribute?](#how-can-i-contribute)
+  - [Getting Started](#getting-started)
+  - [Making Contributions](#making-contributions)
+  - [Reporting Issues](#reporting-issues)
+  - [Pull Request Guidelines](#pull-request-guidelines)
+  - [Community and Communication](#community-and-communication)
+  - [Acknowledgments](#acknowledgments)
 
-<hr/>
+## Code of Conduct
 
-## Quick intro with `git`
-Here is a quick intro for GitHub
+We have a [Code of Conduct](https://github.com/GDSCParulUniversity/.github/blob/main/CODE_OF_CONDUCT.md) that sets the expectations for respectful and inclusive behavior within our community. By participating, you are expected to uphold this code.
 
-### Cloning a repository
-for cloning repository `clone` option is used.
-```bash
-git clone <link>
-```
+## How Can I Contribute?
 
-> replace `<link>` with the URL of the repository
+You can contribute to GDSC PU in several ways:
 
-### Submitting changes
+**Reporting Issues:** Help us improve by reporting bugs, suggesting enhancements, or providing feedback.
 
-```bash
-git pull -v
-git add -A
-git commit -v -m "Changes to repo"
-git push
-```
+**Contributing Code:** Contribute your code to fix issues, implement new features, or improve existing ones.
 
-<details>
-    <summary> Code Explanation </summary>
+**Documentation:** Help improve our documentation, fix errors, or add examples.
 
-Here is a quick explanation of the above commands
+**Community:** Assist fellow contributors by answering questions, participating in discussions, and reviewing pull requests.
 
-```bash
-git pull -v
-```
-the pull option is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+**Feedback:** Share your thoughts on the project, its direction, and how it can better meet your needs.
 
+## Getting Started
 
-```bash
-git add -A
-```
-add option is used to add files to the staging area. `-A` option is used to add all the files in the current directory.
+Before contributing, please make sure you have:
 
-> Stagging area is a place where all the files are stored before they are committed. ( like a launch station for rocket 🚀)
+* Reviewed our [Code of Conduct](#code-of-conduct)
+* Forked our repository to your GitHub account.
+* Set up a development environment as outlined in our project's README.
 
-```bash
-git commit -v -m "Changes to repo"
-```
-commit option is used to commit the changes to the local repository. `-v` option is used to show the diff of the changes. `-m` option is used to add a message to the commit.
+## Making Contributions
 
-> messages are important to a commit cause it explains what changes are being made.
+**Choose an Issue:** Browse our issue tracker of a particular repository to find a task that interests you. Feel free to ask questions or seek clarification if needed.
 
-```bash
-git push
-```
-push option is used to push the changes to the remote repository. which updates the remote repository with the changes made in the local repository.
+**Fork the Repository:** Click the "Fork" button on the top right corner of our repository's page.
 
-</details>
+**Create a Branch:** Create a new branch for your work. Be sure to give it a descriptive name related to the issue you're addressing.
 
-> refer [GitHub HelloWorld docs](https://docs.github.com/en/get-started/quickstart/hello-world) for a quick intro with GitHub web
+**Make Changes:** Write your code, documentation, or make your improvements. Ensure your code follows our coding style and conventions (if applicable).
+
+**Test Your Changes:** Before submitting a pull request, make sure to test your changes thoroughly to ensure they work as intended.
+
+**Create a Pull Request:** Submit your changes by creating a pull request from your fork to the main repository. Provide a clear and concise description of your changes.
+
+## Reporting Issues
+
+If you encounter a problem or have a suggestion, please open an issue on our issue tracker of a particular repository. Be as detailed as possible when describing the issue or enhancement you're proposing.
+
+## Pull Request Guidelines
+
+* Follow our coding style and conventions.
+* Ensure your branch is up to date with the latest changes from the main branch.
+* Provide a clear and informative pull request description.
+* Be prepared to address any feedback or questions from reviewers.
+* Squash your commits into a single meaningful commit if necessary.
+
+## Community and Communication
+
+- Join our [Discord community](https://discord.gg/Ar8H3RhqQ4) forum for discussions and questions.
+- Follow us on [Twitter](https://twitter.com/gdsc_pu) and [Instagram](https://www.instagram.com/gdsc_pu/) for project updates.
+- Participate in discussions on our GitHub repository and help answer questions from other contributors.
+
+## Acknowledgments
+
+Thank you for your interest in contributing to **GDSC PU**. Your support and contributions are vital to our success, and we look forward to collaborating with you! 
