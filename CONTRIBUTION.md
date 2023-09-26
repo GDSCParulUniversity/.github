@@ -69,7 +69,7 @@ If you encounter a problem or have a suggestion, please open an issue on our iss
 
 ## Community and Communication
 
-- Join our [Discord community]([https://discord.gg/67fjZYkc](https://discord.gg/Ar8H3RhqQ4)) forum for discussions and questions.
+- Join our [Discord community] (https://discord.gg/Ar8H3RhqQ4) forum for discussions and questions.
 - Follow us on [Twitter](https://twitter.com/gdsc_pu) and [Instagram](https://www.instagram.com/gdsc_pu/) for project updates.
 - Participate in discussions on our GitHub repository and help answer questions from other contributors.
 
