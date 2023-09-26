@@ -31,4 +31,5 @@ Come [join us](https://gdsc.community.dev/parul-university-vadodara/) :
     | <a target="_blank" href="https://discord.gg/Ar8H3RhqQ4"><u>Discord ( Group Chat ) </u></a>
     | <a target="_blank" href="https://www.youtube.com/channel/UCyORBFDGPvUU0hPL2PRaxsg"> <u>YouTube</u></a>
     | <a target="_blank" href="https://www.linkedin.com/company/dscpu/"><u>LinkedIn</u></a>
+    | <a target="_blank" href="https://twitter.com/gdsc_pu"><u>twitter</u></a>
 </p>
